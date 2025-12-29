@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @elsalma-dt
-- 🎓 Second-year Master's Student in Applied Mathematics, Specializing in Data Science
-- 🚀 Passionate about Data Science, Machine Learning, Deep Learning, and Data Visualization
-- 💼 Actively seeking part-time opportunities in Data Science and Machine Learning
+- 👋 Hi, I’m @elgde-salma
+- 🚀 Researcher in Artificial Intelligence and Natural Language Processing, developing and improving deep learning models for text classification and representation.
 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on any projects or discuss tech-related topics!
